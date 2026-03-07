@@ -233,3 +233,38 @@ button:disabled {
     max-width: 100%;
   }
 }
+/* Buttons row (Clear + Send) */
+.buttons {
+  display: flex;
+  gap: 10px;
+  align-items: stretch;
+}
+
+button.ghost {
+  background: rgba(255, 255, 255, 0.72);
+  color: var(--text);
+  border: 1px solid rgba(18, 116, 117, 0.25);
+}
+
+/* Markdown/code formatting inside bubbles */
+.bubble pre {
+  overflow: auto;
+  padding: 12px;
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.06);
+  margin: 10px 0 0;
+}
+
+.bubble code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size: 0.95em;
+}
+
+.bubble p {
+  margin: 0;
+}
+
+.bubble p + p {
+  margin-top: 10px;
+}
+
