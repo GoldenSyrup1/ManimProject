@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/srira/PycharmProjects/ManimProject/media/videos/FirstManim/720p30/partial_movie_files/Testing/1987512680_3996845218_223132457.mp4'
+file 'file:C:/Users/srira/PycharmProjects/ManimProject/media/videos/FirstManim/720p30/partial_movie_files/Testing/2538612922_2067301261_1767731622.mp4'
+file 'file:C:/Users/srira/PycharmProjects/ManimProject/media/videos/FirstManim/720p30/partial_movie_files/Testing/2538612922_2589546368_3420875958.mp4'
+file 'file:C:/Users/srira/PycharmProjects/ManimProject/media/videos/FirstManim/720p30/partial_movie_files/Testing/2538612922_1056784393_486987106.mp4'
+file 'file:C:/Users/srira/PycharmProjects/ManimProject/media/videos/FirstManim/720p30/partial_movie_files/Testing/2538612922_2688965532_3630266785.mp4'
+file 'file:C:/Users/srira/PycharmProjects/ManimProject/media/videos/FirstManim/720p30/partial_movie_files/Testing/2538612922_2911974054_3369886066.mp4'
+file 'file:C:/Users/srira/PycharmProjects/ManimProject/media/videos/FirstManim/720p30/partial_movie_files/Testing/2538612922_116392094_2625050717.mp4'
